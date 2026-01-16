@@ -1,5 +1,5 @@
 # 💫 About Me:
-founder of EmmaTech<br>into cybersecurity<br>full stack developer<br>
+Founder of EmmaTech<br>cybersecurity<br>Full Stack Developer<br>
 
 
 ## 🌐 Socials:
